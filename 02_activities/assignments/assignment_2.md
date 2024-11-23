@@ -10,18 +10,53 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Your answer...[
+      ![image](https://github.com/user-attachments/assets/c7df179a-48fc-4451-8e7c-02764ce5adea)](https://public.tableau.com/app/profile/pradeepkumar.g/viz/FoodieFindsinBengaluru/Home)
+      This data visualization has several strong points that make it effective and engaging for the intended audience, which is the reason why I am choosing it as the good one:
+Clear Focus and Purpose:
+The title "Foodie Finds in Bengaluru" immediately informs the user of the chart's purpose: to explore restaurants in Bengaluru.
+Well-Designed Layout:
+The visualization is divided into two clear sections:
+Left Panel: Provides a summary of statistics (1,400 restaurants, 181 locations), a breakdown of food styles, and instructions to filter the map.
+Right Panel: Features an interactive map showing the geographic distribution of restaurants, with cluster sizes and locations clearly marked.
+ Interactive Features:
+The ability to filter by food style (shown in the circular chart on the left) allows users to interact with the data and find specific information.
+Effective Use of Visual Elements:
+The map uses well-placed markers that vary in size and labeling to indicate clusters of restaurants, helping users easily identify areas with more options (e.g., JP Nagar with 46 restaurants).
+Color Scheme and Branding:
+The consistent use of red aligns with Zomato's branding, creating a cohesive look while maintaining clarity. The red markers on the map are easily distinguishable from the background.
 
 
+https://public.tableau.com/app/profile/andy.kriebel/viz/KPICalcsTemplate/Card
+This data visualization has several issues that can make it less effective or misleading and that is why I am choosing it as the bad one:
+Lack of Context:
 
+1) The chart shows a comparison between 2023 and 2022 sales, but it doesn't provide detailed context for what is being measured. Are these sales figures in dollars, units, or something else? Without this, the data lacks clarity.
+Inconsistent or Confusing Line Colors:
 
+2) There are two lines in the chart, but their purpose isn't clearly labeled. The light beige and black lines might represent 2022 and 2023 sales respectively, but it is not explicitly stated. This can confuse viewers.
+Improper Use of Scales:
 
+3) The y-axis ranges from 0 to 10K without clear labeling, which can distort the perception of differences. The increments aren’t marked, so it’s hard to tell precise values.
+Overemphasis on a Single Metric:
 
+4) The focus on "73,597" and "-11.7%" lacks additional context. Are these annual totals or averages? What factors contributed to the decline? Visualizations should provide actionable insights, not just raw numbers.
+Ineffective Design Choices:
 
+5) The thin beige line is hard to see against the white background, especially for individuals with visual impairments or in poorly lit settings.
       ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
+https://public.tableau.com/app/profile/andy.kriebel/viz/KPICalcsTemplate/Card
+This data visualization could be improved in several ways like:
+
+Add clear labels for the lines and include a legend or annotations to clarify the comparison between years.
+Specify what "sales" represents and add units (e.g., dollars or items sold).
+Provide more detailed y-axis labeling and possibly gridlines for easier interpretation of trends.
+Use more distinct and visible colors for the two lines to ensure clarity.
+Add context or explanations about why the sales are declining and what viewers should take away from the chart.
+Simplify the visual by removing extraneous controls and focusing on the data.
 
 
 
